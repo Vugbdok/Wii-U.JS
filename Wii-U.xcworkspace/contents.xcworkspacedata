@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:assets"
+      name = "assets">
+      <Group
+         location = "group:css"
+         name = "css">
+         <FileRef
+            location = "group:universal.css">
+         </FileRef>
+         <FileRef
+            location = "group:settings.css">
+         </FileRef>
+         <FileRef
+            location = "group:style.css">
+         </FileRef>
+         <FileRef
+            location = "group:menu.css">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:images"
+         name = "images">
+         <FileRef
+            location = "group:cursor.png">
+         </FileRef>
+         <FileRef
+            location = "group:wii-button.png">
+         </FileRef>
+         <FileRef
+            location = "group:channel-border.png">
+         </FileRef>
+         <FileRef
+            location = "group:border-bottomright.png">
+         </FileRef>
+         <FileRef
+            location = "group:settings-back.png">
+         </FileRef>
+         <FileRef
+            location = "group:settings-topbar.png">
+         </FileRef>
+         <FileRef
+            location = "group:mini-bottom-bg.png">
+         </FileRef>
+         <FileRef
+            location = "group:mail-button.png">
+         </FileRef>
+         <FileRef
+            location = "group:bottom-title.png">
+         </FileRef>
+         <FileRef
+            location = "group:settings-bottombar.png">
+         </FileRef>
+         <FileRef
+            location = "group:btn-left.png">
+         </FileRef>
+         <FileRef
+            location = "group:border-topright.png">
+         </FileRef>
+         <FileRef
+            location = "group:settings-main-bg.png">
+         </FileRef>
+         <FileRef
+            location = "group:channel-wiilogo.png">
+         </FileRef>
+         <FileRef
+            location = "group:settings-main-nav.png">
+         </FileRef>
+         <FileRef
+            location = "group:right-button.png">
+         </FileRef>
+         <FileRef
+            location = "group:channel-hover.png">
+         </FileRef>
+         <FileRef
+            location = "group:channel-spritesheet.png">
+         </FileRef>
+         <FileRef
+            location = "group:miichannel.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:channel-spritesheet.jpg">
+         </FileRef>
+         <FileRef
+            location = "group:border-topleft.png">
+         </FileRef>
+         <FileRef
+            location = "group:bg-pattern.png">
+         </FileRef>
+         <FileRef
+            location = "group:channel-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:btn-texture.png">
+         </FileRef>
+         <FileRef
+            location = "group:settings-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:border-bottomleft.png">
+         </FileRef>
+         <FileRef
+            location = "group:btn-right.png">
+         </FileRef>
+         <FileRef
+            location = "group:bottom-bg.png">
+         </FileRef>
+         <FileRef
+            location = "group:channel-spritesheet_old.png">
+         </FileRef>
+         <FileRef
+            location = "group:splash-bar.png">
+         </FileRef>
+         <FileRef
+            location = "group:left-button.png">
+         </FileRef>
+         <FileRef
+            location = "group:info-icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:logo-white.svg">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:js"
+         name = "js">
+         <FileRef
+            location = "group:main.js">
+         </FileRef>
+         <FileRef
+            location = "group:views.js">
+         </FileRef>
+         <FileRef
+            location = "group:imagesloaded.pkgd.min.js">
+         </FileRef>
+         <FileRef
+            location = "group:iedetect.js">
+         </FileRef>
+         <FileRef
+            location = "group:jquery.waitforimages.min.js">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:audio"
+         name = "audio">
+         <FileRef
+            location = "group:bg-music.mp3">
+         </FileRef>
+         <FileRef
+            location = "group:button-hover.mp3">
+         </FileRef>
+         <FileRef
+            location = "group:back.mp3">
+         </FileRef>
+         <FileRef
+            location = "group:button-select.mp3">
+         </FileRef>
+         <FileRef
+            location = "group:startup.mp3">
+         </FileRef>
+         <FileRef
+            location = "group:bgmusic.html">
+         </FileRef>
+         <FileRef
+            location = "group:zip.mp3">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:CNAME">
+   </FileRef>
+   <FileRef
+      location = "group:index_wii.html">
+   </FileRef>
+   <FileRef
+      location = "group:index-old.html">
+   </FileRef>
+   <FileRef
+      location = "group:index.html">
+   </FileRef>
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <Group
+      location = "group:views"
+      name = "views">
+      <FileRef
+         location = "group:licenses-temp.html">
+      </FileRef>
+      <FileRef
+         location = "group:settings-main.html">
+      </FileRef>
+      <FileRef
+         location = "group:menu.html">
+      </FileRef>
+      <FileRef
+         location = "group:tos.html">
+      </FileRef>
+   </Group>
+</Workspace>

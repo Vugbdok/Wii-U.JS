@@ -92,6 +92,6 @@ $( document ).ready(function() {
 
 
   // startup
-  changeView("menu", "fade");
+  changeView("tos", "fade");
 
 });
